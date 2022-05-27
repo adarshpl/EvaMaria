@@ -1,6 +1,5 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-[12:25 pm] Adarsh P.L.
 (നിയമപരമായ മുന്നറിയിപ്പ് 🙂)
 Punishment for digital piracy can be quite severe. ... Criminal penalties for piracy can include prison sentences of up to five years as well as potential fines up to $250,000
 Avoid piracy.. go legal
