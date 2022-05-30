@@ -3,7 +3,6 @@ class script(object):
 (നിയമപരമായ മുന്നറിയിപ്പ് 🙂)
 Punishment for digital piracy can be quite severe. ... Criminal penalties for piracy can include prison sentences of up to five years as well as potential fines up to $250,000
 Avoid piracy.. go legal
-
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
